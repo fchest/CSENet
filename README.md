@@ -13,6 +13,7 @@ doi: 10.1109/ICASSP43922.2022.9746011.\\
 
 ## run
 1. data
+
 Firstly, the data should be about 3s for each wave.
 
 2. train
@@ -20,5 +21,9 @@ run.sh
 
 3. test
 test.sh
+
+![image](https://user-images.githubusercontent.com/26382648/175199425-f03bbec7-b5e0-4c2b-988f-e79bda8bdb3e.png)
+![image](https://user-images.githubusercontent.com/26382648/175199462-c446887d-3833-4f47-a1ed-93dc4a560efd.png)
+![image](https://user-images.githubusercontent.com/26382648/175199490-cce70ed2-6217-4521-a986-3c85a84f2adc.png)
 
 
