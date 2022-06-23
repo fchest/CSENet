@@ -1,0 +1,5 @@
+inputs:  torch.Size([32, 243, 256])
+att_weights:  torch.Size([32, 256, 1])
+weights:  torch.Size([32, 243, 1])
+attentions:  torch.Size([32, 243])
+weighted:  torch.Size([32, 243, 256])
