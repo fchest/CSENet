@@ -17,9 +17,11 @@ doi: 10.1109/ICASSP43922.2022.9746011.\\
 Firstly, the data should be about 3s for each wave.
 
 2. train
+
 run.sh
 
 3. test
+
 test.sh
 
 ![image](https://user-images.githubusercontent.com/26382648/175199425-f03bbec7-b5e0-4c2b-988f-e79bda8bdb3e.png)
